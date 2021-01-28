@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I am Nicholas Ng! 👋🏻
+I am currently a university student and always a hobbyist that loves to learn new things and code.
 
-<!--
-**onenylxus/onenylxus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+### About me
+- 🎓 I'm studying Mathematics, Computer Science and Spanish in my university
+- 🌱 I'm also learning interested topics from the Internet
+- 👯 I'm looking to collaborate with others in small projects
+- 🥅 I want to get familiar with full-stack and CI/CD development
+- ⚡ I like creative work such as art and music
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools
+- 📖 Languages: HTML, CSS, JavaScript, Node.js, C/C++, Git
+- 💻 IDE: Visual Studio Code
