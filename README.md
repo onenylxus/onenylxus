@@ -11,5 +11,8 @@ I am currently a university student and always a hobbyist that loves to learn ne
 - ⚡ I like creative work such as art and music
 
 ### Languages and tools
-- 📖 Languages: HTML, CSS, JavaScript, Node.js, C/C++, Git
+- 📖 Languages: HTML, CSS, JavaScript, Node.js, C/C++, Matlab, Tex, Git
 - 💻 IDE: Visual Studio Code
+
+### GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
