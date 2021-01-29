@@ -4,10 +4,10 @@ I am currently a university student and always a hobbyist that loves to learn ne
 <hr />
 
 ### About me
-- 🎓 I'm studying Mathematics, Computer Science and Spanish in my university
-- 🌱 I'm also learning interested topics from the Internet
-- 👯 I'm looking to collaborate with others in small projects
-- 🥅 I want to get familiar with full-stack and CI/CD development
+- 🎓 I am studying Mathematics, Computer Science and Spanish at my university
+- 🌱 I am also learning interested topics from the Internet
+- 👯 I am looking to collaborate with others in small projects
+- 🥅 I want to get familiar with full-stack and CI/CD development, TypeScript also
 - ⚡ I like creative work such as art and music
 
 ### Languages and tools
