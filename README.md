@@ -19,7 +19,7 @@ I am currently a university student and always a hobbyist that loves to learn ne
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=ffffff)
 ![TeX](https://img.shields.io/badge/-TeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
 
 ##### IDE
