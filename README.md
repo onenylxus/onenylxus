@@ -14,16 +14,19 @@ I am currently a university student and always a hobbyist that loves to learn ne
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=303030)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node%2ejs-339933?style=flat-square&logo=node%2ejs&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=303030)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
-![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=ffffff)
+![Matlab](https://img.shields.io/badge/-MATLAB-0076ab?style=flat-square&logo=mathworks&logoColor=ffffff)
 ![TeX](https://img.shields.io/badge/-TeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
 
 ##### IDE
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=ffffff)
+![Atom](https://img.shields.io/badge/-Atom-66595c?style=flat-square&logo=atom&logoColor=ffffff)
 
 ### GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
