@@ -14,6 +14,7 @@ I am currently a university student and always a hobbyist that loves to learn ne
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=303030)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
+![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/-JQuery-0769ad?style=flat-square&logo=jquery&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node%2ejs-339933?style=flat-square&logo=node%2ejs&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=303030)
