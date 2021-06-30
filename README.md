@@ -11,13 +11,14 @@ I am currently a university student and always a hobbyist that loves to learn ne
 ### Languages and tools
 ![HTML](https://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572b6?style=flat-square&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=303030)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=303030)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)\
 ![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=ffffff)
 ![JQuery](https://img.shields.io/badge/-JQuery-0769ad?style=flat-square&logo=jquery&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node%2ejs-339933?style=flat-square&logo=node%2ejs&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=303030)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=303030)\
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=c&logoColor=303030)
-![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=ffffff)\
+![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![Matlab](https://img.shields.io/badge/-MATLAB-0076ab?style=flat-square&logo=mathworks&logoColor=ffffff)
 ![TeX](https://img.shields.io/badge/-TeX-008080?style=flat-square&logo=latex&logoColor=ffffff)\
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)
