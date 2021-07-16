@@ -29,4 +29,6 @@ I am currently a university student and always a hobbyist that loves to learn ne
 ![Atom](https://img.shields.io/badge/-Atom-66595c?style=flat-square&logo=atom&logoColor=ffffff)
 
 ### GitHub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&exclude_repo=csci3100-project&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&exclude_repo=csci3100-project,cs-archive&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+(**csci3100-project** and **cs-archive** are excluded)
