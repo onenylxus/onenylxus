@@ -4,8 +4,8 @@ I am currently a university student and always a hobbyist that loves to learn ne
 ### About me
 - 🎓 I am studying Mathematics, Computer Science and Spanish at my university
 - 🌱 I am also learning interested topics from the Internet
-- 👯 I am looking to collaborate with others in small projects
-- 🥅 I want to get familiar with full-stack and CI/CD development, TypeScript also
+- 👯 I am looking to collaborate with other people in small projects
+- 🥅 I want to get familiar with full-stack and CI/CD development
 - ⚡ I like creative work such as art and music
 
 ### Languages and tools
@@ -14,11 +14,12 @@ I am currently a university student and always a hobbyist that loves to learn ne
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=303030)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)\
 ![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=ffffff)
-![JQuery](https://img.shields.io/badge/-JQuery-0769ad?style=flat-square&logo=jquery&logoColor=ffffff)
+![jQuery](https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node%2ejs-339933?style=flat-square&logo=node%2ejs&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=303030)\
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=c&logoColor=303030)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
 ![Matlab](https://img.shields.io/badge/-MATLAB-0076ab?style=flat-square&logo=mathworks&logoColor=ffffff)
 ![TeX](https://img.shields.io/badge/-TeX-008080?style=flat-square&logo=latex&logoColor=ffffff)\
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)
