@@ -21,13 +21,16 @@ I am currently a university student and always a hobbyist that loves to learn ne
 ![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
 ![Matlab](https://img.shields.io/badge/-MATLAB-0076ab?style=flat-square&logo=mathworks&logoColor=ffffff)
-![TeX](https://img.shields.io/badge/-TeX-008080?style=flat-square&logo=latex&logoColor=ffffff)\
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)\
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=ffffff)
-![Atom](https://img.shields.io/badge/-Atom-66595c?style=flat-square&logo=atom&logoColor=ffffff)
+![Atom](https://img.shields.io/badge/-Atom-66595c?style=flat-square&logo=atom&logoColor=ffffff)\
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999ff?style=flat-square&logo=adobe-premiere-pro&logoColor=ffffff)
 
 ### GitHub stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&exclude_repo=csci3100-project,cs-archive&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
