@@ -1,4 +1,4 @@
-### Hello, I am Nicholas Ng! 👋🏻
+### Hello, I am Nicholas Ng!
 I am currently a university student and always a hobbyist that loves to learn new things and code.
 
 ### About me
