@@ -20,6 +20,7 @@ I am currently a university student and always a hobbyist that loves to learn ne
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=c&logoColor=303030)
 ![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/-Jupyter-f37626?style=flat-square&logo=jupyter&logoColor=ffffff)
 ![Matlab](https://img.shields.io/badge/-MATLAB-0076ab?style=flat-square&logo=mathworks&logoColor=ffffff)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)\
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)
@@ -33,6 +34,8 @@ I am currently a university student and always a hobbyist that loves to learn ne
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999ff?style=flat-square&logo=adobe-premiere-pro&logoColor=ffffff)
 
 ### GitHub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&exclude_repo=csci3100-project,cs-archive&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-**csci3100-project** and **cs-archive** are excluded since they are academic repositories.
+---
+
+*Visit [nicholasng6237](https://github.com/nicholasng6237) to see my academic repositories.*
