@@ -1,9 +1,9 @@
 ### Hello, I am Nicholas Ng!
-I am currently a university student and always a hobbyist that loves to learn new things and code.
+I am currently a software engineer and always a hobbyist that loves to learn new things and code.
 
 ### About me
-- 🎓 I am studying Mathematics, Computer Science and Spanish at my university
-- 🌱 I am also learning interested topics from the Internet
+- 🎓 I studied Mathematics, Computer Science and Spanish at my university
+- 🌱 I am eager to learn interesting topics from the Internet
 - 👯 I am looking to collaborate with other people in small projects
 - 🥅 I want to get familiar with practical software development
 - ⚡ I like creative work such as art and music
