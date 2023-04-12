@@ -42,3 +42,6 @@ I am currently a software engineer and always a hobbyist that loves to learn new
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31a8ff?logo=adobe-photoshop&logoColor=ffffff)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-ff9a00?logo=adobe-illustrator&logoColor=ffffff)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999ff?logo=adobe-premiere-pro&logoColor=ffffff)
+
+### GitHub stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&exclude_repo=cs-archive,csci3100-project,math3330&theme=dark&layout=compact&card_width=340px)](https://github.com/anuraghazra/github-readme-stats)
