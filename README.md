@@ -32,7 +32,6 @@ I am currently a software engineer and always a hobbyist that loves to learn new
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=ffffff)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-f37626?logo=jupyter&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?logo=visual-studio-code&logoColor=ffffff)
