@@ -1,4 +1,4 @@
-### Hello, I am Nicholas Ng!
+![Nicholas Ng](https://i.ibb.co/P45ntVS/Github-header.png)
 I am currently a software engineer and always a hobbyist that loves to learn new things and code.
 
 ### About me
