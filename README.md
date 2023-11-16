@@ -26,9 +26,10 @@ I am currently a software engineer and always a hobbyist that loves to learn new
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569b?logo=flutter&logoColor=ffffff)\
 ![C](https://img.shields.io/badge/-C-a8b9cc?logo=c&logoColor=303030)
-![C++](https://img.shields.io/badge/-C++-00599c?logo=c%2B%2B&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-00599c?logo=c%2b%2b&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-C%23-512bd4?logo=c%20sharp&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=ffffff)
-![Matlab](https://img.shields.io/badge/-MATLAB-0076ab?logo=mathworks&logoColor=ffffff)\
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=ffffff)\
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=ffffff)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=ffffff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-f37626?logo=jupyter&logoColor=ffffff)
