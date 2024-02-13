@@ -27,7 +27,7 @@ I am currently a software engineer and always a hobbyist that loves to learn new
 ![Flutter](https://img.shields.io/badge/-Flutter-02569b?logo=flutter&logoColor=ffffff)\
 ![C](https://img.shields.io/badge/-C-a8b9cc?logo=c&logoColor=303030)
 ![C++](https://img.shields.io/badge/-C++-00599c?logo=c%2b%2b&logoColor=ffffff)
-![C#](https://img.shields.io/badge/-C%23-512bd4?logo=c%20sharp&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-C%23-512bd4?logo=csharp&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=ffffff)\
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=ffffff)
@@ -37,9 +37,9 @@ I am currently a software engineer and always a hobbyist that loves to learn new
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?logo=visual-studio-code&logoColor=ffffff)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5c2d91?logo=visual-studio&logoColor=ffffff)
-![Atom](https://img.shields.io/badge/-Atom-66595c?logo=atom&logoColor=ffffff)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3ddc84?logo=android&logoColor=ffffff)\
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31a8ff?logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-31a8ff?logo=adobe-lightroom&logoColor=ffffff)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-ff9a00?logo=adobe-illustrator&logoColor=ffffff)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999ff?logo=adobe-premiere-pro&logoColor=ffffff)
 
