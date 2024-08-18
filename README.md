@@ -48,4 +48,4 @@ I am currently a software engineer and always a hobbyist that loves to learn new
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3ddc84?logo=android&logoColor=ffffff)
 
 ### GitHub stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&exclude_repo=cs-archive,csci3100-project,math3330&theme=dark&layout=compact&card_width=340px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,math3330&theme=dark&layout=compact&card_width=340px)](https://github.com/anuraghazra/github-readme-stats)
