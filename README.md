@@ -30,6 +30,8 @@
         <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" />
         <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" />
         <img src="https://img.shields.io/badge/-MongoDB-47a248?logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SQLite-003b57?logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169e1?logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/-React%20Native-61dafb?logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/-Dart-0175c2?logo=dart&logoColor=white" />
