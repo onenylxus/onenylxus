@@ -13,7 +13,7 @@
     <tr>
       <td width="400">
         <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/-CSS-1572b6?logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/-CSS-1572b6?logo=css&logoColor=white" />
         <img src="https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=white" />
         <img src="https://img.shields.io/badge/-Tailwind-06b6d4?logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black" />
@@ -27,11 +27,6 @@
         <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/-NPM-cb3837?logo=npm&logoColor=white" />
         <img src="https://img.shields.io/badge/-Yarn-2c8ebb?logo=yarn&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/-MongoDB-47a248?logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/-SQLite-003b57?logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169e1?logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/-React%20Native-61dafb?logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/-Dart-0175c2?logo=dart&logoColor=white" />
@@ -46,6 +41,14 @@
         <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white" />
         <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" />
         <img src="https://img.shields.io/badge/-Jupyter-f37626?logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MongoDB-47a248?logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SQLite-003b57?logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169e1?logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Cypress-69d3a7?logo=cypress&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Grafana-f46800?logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Prometheus-e6522c?logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" />
         <img src="https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/-GitLab-fc6d26?logo=gitlab&logoColor=white" />
