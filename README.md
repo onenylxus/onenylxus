@@ -61,7 +61,7 @@
       </td>
       <td width="400">
         <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&theme=catppuccin_mocha&layout=compact&card_width=340px&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,math3330" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenylxus&theme=catppuccin_mocha&layout=compact&card_width=340px&exclude_repo=ugcs-archive,pgcs-archive" />
         </div>
       </td>
     </tr>
