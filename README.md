@@ -14,27 +14,27 @@
       <td>
         <picture>
           <source
-            srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=onenylxus&theme=catppuccin_mocha&layout=compact&card_width=400px&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,emo-model,idk-model,optitrade"
+            srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=onenylxus&theme=github_dark&layout=compact&card_width=400px&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,emo-model,idk-model,optitrade"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=onenylxus&theme=catppuccin_latte&layout=compact&card_width=400px&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,emo-model,idk-model,optitrade"
+            srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=onenylxus&layout=compact&card_width=400px&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,emo-model,idk-model,optitrade"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img alt="Most Used Languages" height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=onenylxus&theme=catppuccin_latte&layout=compact&card_width=400px&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,emo-model,idk-model,optitrade" />
+          <img alt="Most Used Languages" height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=onenylxus&layout=compact&card_width=400px&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,emo-model,idk-model,optitrade" />
         </picture>
       </td>
       <td>
         <picture>
           <source
-            srcset="https://github-readme-stats-onenylxus.vercel.app/api?username=onenylxus&show_icons=true&theme=catppuccin_mocha"
+            srcset="https:/github-stats-extended.vercel.app/api?username=onenylxus&show_icons=true&theme=github_dark"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-onenylxus.vercel.app/api?username=onenylxus&show_icons=true&theme=catppuccin_latte"
+            srcset="https://github-stats-extended.vercel.app/api?username=onenylxus&show_icons=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img alt="GitHub Stats" height="195" src="https://github-readme-stats-onenylxus.vercel.app/api?username=onenylxus&show_icons=true&theme=catppuccin_latte" />
+          <img alt="GitHub Stats" height="195" src="https://github-stats-extended.vercel.app/api?username=onenylxus&show_icons=true" />
         </picture>
       </td>
     </tr>
