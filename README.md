@@ -9,36 +9,9 @@
 ### GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source
-            srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=onenylxus&theme=github_dark&layout=compact&card_width=400px&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,emo-model,idk-model,optitrade"
-            media="(prefers-color-scheme: dark)"
-          />
-          <img alt="Most Used Languages" height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=onenylxus&layout=compact&card_width=400px&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,emo-model,idk-model,optitrade" />
-        </picture>
-      </td>
-      <td>
-        <picture>
-          <source
-            srcset="https:/github-stats-extended.vercel.app/api?username=onenylxus&show_icons=true&theme=github_dark"
-            media="(prefers-color-scheme: dark)"
-          />
-          <img alt="GitHub Stats" height="195" src="https://github-stats-extended.vercel.app/api?username=onenylxus&show_icons=true" />
-        </picture>
-      </td>
-    </tr>
-  </table>
+  <img alt="Most Used Languages" height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=onenylxus&layout=compact&card_width=400px&theme=github_dark&exclude_repo=ugcs-archive,pgcs-archive,csci3100-project,emo-model,idk-model,optitrade" />
 </div>
 
 ### Languages and Tools
 
-<picture>
-  <source
-    srcset="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,bootstrap,jquery,express,react,vite,nextjs,nodejs,npm,yarn,pnpm,py,fastapi,pytorch,kotlin,dart,flutter,c,cpp,cs,qt,rust,tauri,lua,matlab,octave,md,latex,vercel,mongodb,sqlite,postgres,jest,cypress,selenium,docker,jenkins,aws,grafana,prometheus,heroku,git,github,gitlab,vscode,visualstudio,androidstudio,atom&perline=20"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img alt="Languages and Tools" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,bootstrap,jquery,express,react,vite,nextjs,nodejs,npm,yarn,pnpm,py,fastapi,pytorch,kotlin,dart,flutter,c,cpp,cs,qt,rust,tauri,lua,matlab,octave,md,latex,vercel,mongodb,sqlite,postgres,jest,cypress,selenium,docker,jenkins,aws,grafana,prometheus,heroku,git,github,gitlab,vscode,visualstudio,androidstudio,atom&perline=20&theme=light" />
-</picture>
+<img alt="Languages and Tools" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,bootstrap,jquery,express,react,vite,nextjs,nodejs,npm,yarn,pnpm,py,fastapi,pytorch,kotlin,dart,flutter,c,cpp,cs,qt,rust,tauri,lua,matlab,octave,md,latex,vercel,mongodb,sqlite,postgres,jest,cypress,selenium,docker,jenkins,aws,grafana,prometheus,heroku,git,github,gitlab,vscode,visualstudio,androidstudio,atom&perline=20" />
